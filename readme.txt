@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 test stash
 test GIT
 test co
+test fin
